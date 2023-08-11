@@ -7,6 +7,7 @@ The data source is from Kaggle, UCI Machine Learning Repository
 ### Issue and Finding
 1. Learn how to deal with imbalanced data on categorical, numeric features, and label output based on strictly evaluating.
 2. Learn how to apply the ensemble technique to boost performance
+
 ### Technologies: 
 Comprehensive EDA process, Feature engineering, Bias detection, tunning of Fully connected Model, Tensorflow data pipeline, Ensemble
 ### How to use this repository
