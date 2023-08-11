@@ -4,11 +4,8 @@ Say we got hired by a bank in Taiwan and tried to build a model to make a predic
 ### Data Source
 Data Contains demographic info, credit information, and history of payments and defaults of 30k credit card customers in Taiwan from April to September 2005. 
 The data source is from Kaggle, UCI Machine Learning Repository
-### Issue and Finding
-> 1. Get to know how to deal with imbalanced data on categorical, numeric features, and label output based on the careful evaluation.
-> 2. Get to know how to apply the ensemble technique to boost performance
-> 3. Fully connected model training and hyperparameter tuning
-## Technologies: 
+### Technologies: 
 Comprehensive EDA process, Feature engineering, Bias detection, Fully connected model training and hyperparameter tuning, Tensorflow data pipeline, Ensemble
-## How to use this repository
+### How to use this repository
 W207Project1_EDA_balanced.ipynb would do the EDA process and take UCI_Credit_Card.csv which is downloaded from Kaggle as input and output a CSV file of CreditCard_EDA_balanced6636. W207project1_DataPreparation_Training_Eva_Ensemble.ipynb would then take the output CSV file as input to generate a prediction based on the models trained inside.
+
