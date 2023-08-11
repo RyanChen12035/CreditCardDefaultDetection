@@ -5,9 +5,9 @@ Say we got hired by a bank in Taiwan and tried to build a model to make a predic
 Data Contains demographic info, credit information, and history of payments and defaults of 30k credit card customers in Taiwan from April to September 2005. 
 The data source is from Kaggle, UCI Machine Learning Repository
 ### Issue and Finding
-1. Learn how to deal with imbalanced data on categorical, numeric features, and label output based on strictly evaluating.
-2. Learn how to apply the ensemble technique to boost performance
-
+>Get to know how to deal with imbalanced data on categorical, numeric features, and label output based on the careful evaluation.
+>Get to know how to apply the ensemble technique to boost performance
+>Fully connected model training and hyperparameter tuning
 ### Technologies: 
 Comprehensive EDA process, Feature engineering, Bias detection, tunning of Fully connected Model, Tensorflow data pipeline, Ensemble
 ### How to use this repository
