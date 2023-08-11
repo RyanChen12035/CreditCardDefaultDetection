@@ -1,2 +1,6 @@
 # CreditCardDefault
-RyanChen12035.github.io/CreditCardDefault
+### Description
+### Data Source
+### Objective
+### Issue and Finding
+### Technologies: EDA process, Tensorflow data pipeline, Ensemble
